@@ -1,0 +1,5 @@
+html, img, tr, th, td, table, caption, p {
+ padding: 0;
+ font-size: 100%;
+ vertical-align: baseline;
+}
